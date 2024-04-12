@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" modified="2024-04-12T08:33:31.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="697qFUfdWthEJ7mVcMyz" version="24.2.3" type="google">
+  <diagram name="Page-1" id="iMJz3dV51j4DtJWp41o-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qz9KrhgKIeIzovolFTlP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-2" target="qz9KrhgKIeIzovolFTlP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-2" value="Data Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-11" target="qz9KrhgKIeIzovolFTlP-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="490" />
+              <mxPoint x="750" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-11" target="qz9KrhgKIeIzovolFTlP-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="490" />
+              <mxPoint x="470" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-11" value="Machine Learning Algorithms" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-13" target="qz9KrhgKIeIzovolFTlP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-13" value="Random Forest" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="880" y="225" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-15" target="qz9KrhgKIeIzovolFTlP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-15" value="Neural Network" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="230" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-17" target="qz9KrhgKIeIzovolFTlP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-17" value="Train/Test Split" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="191.25" y="360" width="182.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-19" target="qz9KrhgKIeIzovolFTlP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-19" value="Building Optimal Neural Network Architecture: calculating the best number of neuron and hidden layers." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="790" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-21" target="qz9KrhgKIeIzovolFTlP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-21" value="Fine-tuning Hyperparameter: determining the best number of epochs and batch size." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="1010" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-23" target="qz9KrhgKIeIzovolFTlP-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-23" value="Train and Evaluate Final Optimized Neural Network Model: with the best architecture and hyperparameters." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1240" width="415" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-25" target="qz9KrhgKIeIzovolFTlP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-25" value="Train/Test Split" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="370" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-31" target="qz9KrhgKIeIzovolFTlP-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-31" value="Finding Optimal Hyperparameters: tuning tree depth, number of trees, and max features" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="790" y="800" width="350" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-33" target="qz9KrhgKIeIzovolFTlP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-33" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;Train and Evaluate Final Optimized Random Forest Model: with the best hyperparameters&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1020" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ1UUC6E_XECIvdMUsFk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-35" target="qz9KrhgKIeIzovolFTlP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-35" value="Appropriate Packages" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="535" y="120" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-37" value="Compare the Two Optimized Models Across Multiple Iterations " style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1440" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-44" target="qz9KrhgKIeIzovolFTlP-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-44" value="Train Model Using Default Hyperparameters" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="490" width="225" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-48" target="qz9KrhgKIeIzovolFTlP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-48" value="Train Model Using Default Hyperparameters" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="285" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-51" target="qz9KrhgKIeIzovolFTlP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-51" target="qz9KrhgKIeIzovolFTlP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-51" value="Evaluate Model Performance Based on Prediction Accuracy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="625" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-52" target="qz9KrhgKIeIzovolFTlP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=22;" edge="1" parent="1" source="qz9KrhgKIeIzovolFTlP-52" target="qz9KrhgKIeIzovolFTlP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-52" value="&lt;br style=&quot;font-size: 22px;&quot;&gt;Evaluate Model Performance Based on Prediction Accuracy&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="840" y="625" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9KrhgKIeIzovolFTlP-57" value="Compare the Two Default Models Across Multiple Iterations" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="505" y="620" width="250" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
